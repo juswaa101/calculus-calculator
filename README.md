@@ -51,8 +51,6 @@ Calculus Calculator is a web application for performing derivative and integral 
 8. **Launch the Project**
    ```bash
    http://localhost:8000/
-
-
 ## License
 
 The Calculus Calculator is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
