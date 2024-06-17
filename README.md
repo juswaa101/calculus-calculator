@@ -48,6 +48,10 @@ Calculus Calculator is a web application for performing derivative and integral 
    ```bash
    php artisan serve
 
+8. **Launch the Project**
+   ```bash
+   http://localhost:8000/
+
 
 ## License
 
